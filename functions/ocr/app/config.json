@@ -1,7 +1,7 @@
 {
-  "RESULT_TOPIC": "[YOUR_RESULT_TOPIC_NAME]",
-  "RESULT_BUCKET": "[YOUR_TEXT_BUCKET_NAME]",
-  "TRANSLATE_TOPIC": "[YOUR_TRANSLATE_TOPIC_NAME]",
-  "TRANSLATE": true,
+  "RESULT_TOPIC": "resultbucket2344",
+  "RESULT_BUCKET": "textbucket2344",
+  "TRANSLATE_TOPIC": "translatetopic2344",
+  "TRANSLATE": false,
   "TO_LANG": ["en", "fr", "es", "ja", "ru"]
 }
